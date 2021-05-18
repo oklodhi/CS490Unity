@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92a512b8361204d42b77fc9a32033048
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterTrail: {fileID: 4039009714630370463, guid: 2dbd34e738ba206428354aaa819137d9,
+      type: 3}
+  - smokeTrail: {fileID: 7683121011643518127, guid: 42d9ec30556a7754cbe6280f5b58e3fc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
